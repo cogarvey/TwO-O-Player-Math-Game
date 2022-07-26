@@ -1,0 +1,10 @@
+2 players:
+player 1
+player 2
+
+need to:
+generate random number
+a question class that generates questions using generate random number and add or subtract from that
+a way to type in answer
+something to verify if answer is correct or not
+a statement to verify score and to move to next character or say game over
